@@ -11,7 +11,7 @@ contributing to attrition. The dashboard helps HR teams and business leaders und
 employees leave, detect patterns across demographics, job roles, and departments, and support
 data-driven decision-making to improve employee retention.
 
-![image alt]()
+![image alt](https://github.com/PRATHAMPBHANDARY/HR-Workforce-Attrition-Analysis-Dashboard-/blob/391e640f41a3403f87dd47abfa47879ce6f6a56f/Dashboard%20Screenshot.png)
 
 
 Key Metrics
