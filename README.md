@@ -1,8 +1,4 @@
-Here is the **clean README version without table format**, so it will **display properly on GitHub and is easy to paste**.
 
-You can **copy and paste directly into your `README.md` file**.
-
----
 
 # HR Workforce Attrition Analysis Dashboard
 
@@ -123,10 +119,3 @@ Email:
 LinkedIn:
 [https://www.linkedin.com/in/pratham-p-bhandary](https://www.linkedin.com/in/pratham-p-bhandary)
 
----
-
-✅ This version will **not break formatting on GitHub** and is **ready to paste**.
-
----
-
-If you want, I can also show you **3 small improvements that make your GitHub project look much more professional (used by real data analysts)**.
