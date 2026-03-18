@@ -23,7 +23,7 @@ The dashboard helps HR teams and business leaders:
 
 ## Dashboard Preview
 
-![HR Attrition Dashboard](https://github.com/PRATHAMPBHANDARY/HR-Workforce-Attrition-Analysis-Dashboard-/blob/391e640f41a3403f87dd47abfa47879ce6f6a56f/Dashboard%20Screenshot.png)
+![HR Attrition Dashboard](https://github.com/PRATHAMPBHANDARY/HR-Workforce-Attrition-Analysis-Dashboard-/blob/9d08ec2d6624cc03a0e86e70e3e1cea63740d234/DASHBOARD%20SCREENSHOT.png)
 
 ---
 
